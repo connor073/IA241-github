@@ -12,7 +12,7 @@ my_id = 123
 print(my_id)
 
 #6.3
-# 123 = my_id
+#123 = my_id
 
 #6.4
 my_id = your_id = 123
@@ -35,5 +35,8 @@ print(my_name * 3)
 print('hello, world. This is my first python string'.split('.'))
 
 #6.10
+#message = 'Tom's id is 123'
+#print(message)
+
 message = "Tom's id is 123"
 print(message)
