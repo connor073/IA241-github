@@ -33,8 +33,8 @@ print(len(sentence))
 #3.7
 num_list = [12, 32, 43, 35]
 num_list.sort()
-print(num_list[len(num_list) - 1])
-print(num_list[0])
+print(num_list[len(num_list) - 1]) #max
+print(num_list[0])                 #min
 
 #3.8
 game_board = [[0, 0, 0], [0, 0, 0],[0, 0, 0]]
